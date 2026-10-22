@@ -1,1 +1,1 @@
-print"This is for Pull script from Github check V2")
+print("This is for Pull script from Github check V2")
